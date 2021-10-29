@@ -121,7 +121,7 @@ import { service } from '../utils/services'
 import VueSlickCarousel from 'vue-slick-carousel'
 
 export default {
-  name: 'hotelView',
+  name: 'HotelView',
   data () {
     return {
       hotel: {},

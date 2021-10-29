@@ -68,7 +68,7 @@
 import HotelDatePicker from 'vue-hotel-datepicker'
 import { service } from '../utils/services'
 export default {
-  name: 'theHeader',
+  name: 'TheHeader',
     props: {
     msg: String
   },

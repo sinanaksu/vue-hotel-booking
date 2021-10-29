@@ -84,7 +84,7 @@
 import { service } from '../utils/services'
 
 export default {
-  name: 'hotelList',
+  name: 'HotelList',
   data () {
     return {
       hotelList: [],
